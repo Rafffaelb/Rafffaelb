@@ -7,6 +7,10 @@
 - 📫 How to reach me: rafael.alves.batista@gmail.com
 - ⚡ Fun fact: As an ordinary brazilian, I love to play and watch soccer/football.
 
+Bachelor and master degree in physics at Federal University of Paraíba (UFPB)
+
+I am currently a doctoral student in physics at UFPB
+
 ![Rafffaelb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafffaelb&hide=contribs,prs&show_icons=true&theme=dark) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafffaelb)](https://github.com/Rafffaelb/github-readme-stats&theme=dark))
