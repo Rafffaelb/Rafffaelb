@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Random-matrix theory applied to mesoscopic systems such as chaotic quantum dots
 - 🌱 I’m currently learning how to implementing quantum physics systems in C++, Matlab, Python.
-- 👯 I’m looking to collaborate on chaotic quantum dots, quantum many-body systems and quantum information/computing
+- 👯 I’m looking to collaborate on shot noise in chaotic quantum dots, quantum entanglement detection by noise measurements and quantum information
 - 🤔 I’m looking for help with symmetry classes in mesoscopic Normal-Superconducting hybrid structures by Altland-Zirnbauer
 - 📫 How to reach me: rafael.alves.batista@gmail.com
 - ⚡ Fun fact: As an ordinary brazilian, I love to play and watch soccer/football.
