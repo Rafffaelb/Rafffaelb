@@ -1,15 +1,14 @@
 ### Hi there, My name is Rafael A. Batista 👋
 
-- 🔭 I’m currently working on Random-matrix theory applied to mesoscopic systems such as chaotic quantum dots
-- 🌱 I’m currently learning how to implementing quantum physics systems in C++, Matlab, Python.
-- 👯 I’m looking to collaborate on shot noise in chaotic quantum dots, quantum entanglement detection by noise measurements and quantum information
-- 🤔 I’m looking for help with symmetry classes in mesoscopic Normal-Superconducting hybrid structures by Altland-Zirnbauer
+- 🔭 I’m currently working on reconfigurable computing applications in radio astronomy.
+- 🌱 I’m currently learning how to perform spectral analysis using a Radio Frequency FPGA board.
+- 👯 I’m looking to collaborate on real-time spectral analysis for the RF receivers.
+- 🤔 I’m looking for help with RF experiments.
 - 📫 How to reach me: rafael.alves.batista@gmail.com
-- ⚡ Fun fact: As an ordinary brazilian, I love to play and watch soccer/football.
 
-Bachelor and master degree in physics at Federal University of Paraíba (UFPB)
+Bachelor, master and doctor degree in physics at Federal University of Paraíba (UFPB).
 
-I am currently a doctoral student in physics at UFPB
+I am currently a postdoctoral researcher of the project BINGO (Baryon Acoustic Oscillations in Neutral Gas Observations) at UFCG.
 
 ![Rafffaelb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafffaelb&hide=contribs,prs&show_icons=true&theme=dark) 
 
