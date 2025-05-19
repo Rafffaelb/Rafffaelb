@@ -1,9 +1,8 @@
 ### Hi there, My name is Rafael A. Batista 👋
 
-- 🔭 I’m currently working on reconfigurable computing applications in radio astronomy.
-- 🌱 I’m currently learning how to perform spectral analysis using a Radio Frequency FPGA board.
+- 🔭 I’m currently working on reconfigurable computing applications in radio astronomy digital signal processing.
+- 🌱 I’m currently learning how to perform digital signal processing using FPGA board.
 - 👯 I’m looking to collaborate on real-time spectral analysis for the RF receivers.
-- 🤔 I’m looking for help with RF experiments.
 - 📫 How to reach me: rafael.alves.batista@gmail.com
 
 Bachelor, master and doctor degree in physics at Federal University of Paraíba (UFPB).
