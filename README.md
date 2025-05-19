@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on reconfigurable computing applications in radio astronomy digital signal processing.
 - 🌱 I’m currently learning how to perform digital signal processing using FPGA board.
-- 👯 I’m looking to collaborate on real-time spectral analysis for the RF receivers.
+- 👯 I’m looking to collaborate on real-time spectral analysis for the Radio Frequency (RF) receivers.
+- ✒️ I'm also interested in the various technological applications of reconfigurable computing, particularly in areas such as drones/UAVs and robotics.
 - 📫 How to reach me: rafael.alves.batista@gmail.com
 
 Bachelor, master and doctor degree in physics at Federal University of Paraíba (UFPB).
